@@ -5,7 +5,7 @@
 
 const API_CONFIG = {
   // Use production backend URL
-  BASE_URL: 'http://localhost:3000',
+  BASE_URL: 'https://backend-blackdonut.onrender.com',
 
   // API Endpoints
   ENDPOINTS: {
